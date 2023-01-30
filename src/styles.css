@@ -167,3 +167,27 @@ gap: 10px;
     padding: 3px 6px;
 }
 
+/**
+* ! footer
+**/
+
+.coded{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #212529;
+    color: white;
+    padding: 25px 60px;
+}
+
+.github{
+color: red;
+}
+.links{
+    cursor: pointer;
+}
+.bi-linkedin{
+    padding: 10px;
+    font-style: 20px;
+}

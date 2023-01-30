@@ -1,8 +1,8 @@
 let shopItemsData = [ {
     id:"ddfvf",
     name:"Office Chair",
-    price:"50",
-    desc:"this chair is white color and comfortbule to sit and relax. looks very good.",
+    price:"500",
+    desc:"Modern Office Chairs Boss Chair Home Comfortable Computer Chair Office Furniture Reclining Massage Lifting Rotating Armchairs",
     img:"images/image3.webp"
 },{
     id:"gerr",
